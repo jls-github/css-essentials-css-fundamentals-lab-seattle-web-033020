@@ -29,9 +29,10 @@ figcaption {
   text-align: center;
 }
 
-#featured-property {
-  width: 800px;
+
+section#featured-propery p {
   text-align: center;
+  width: 800px;
 }
 
 #details {
@@ -44,3 +45,4 @@ figcaption {
   background-color: red;
   width: 25%;
 }
+
